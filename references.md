@@ -1,5 +1,3 @@
-# References
+# List of References
 
-* octocat 1 😈# References
-
-* octocat 1 😈
+Who knows!
